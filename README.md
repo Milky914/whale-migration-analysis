@@ -18,6 +18,8 @@ Find which regions in the Southern Ocean have the most whale observations.
 1) Most observations are concentrated near the coast of Antarctica
 2) Top region: 88/-62 (57 observations) — south of Australia
 3) Second: 179/-68 (43 observations) — near the 180° meridian
+<img width="853" height="547" alt="Без названия" src="https://github.com/user-attachments/assets/e173b573-f170-4941-b3f7-59a1bcb4272a" />
+*Map of whale observations in the Southern Ocean*
 
 ## What could be improved
 1) Add real region names instead of coordinates
