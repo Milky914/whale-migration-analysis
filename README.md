@@ -26,3 +26,7 @@ Find which regions in the Southern Ocean have the most whale observations.
 1) Add real region names instead of coordinates
 2) Analyze each whale separately
 3) Build a map with colored squares
+
+[View the full analysis](Whale_migration_analysis.ipynb)
+
+**Author:** Victoria
